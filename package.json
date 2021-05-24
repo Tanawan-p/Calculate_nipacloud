@@ -1,0 +1,25 @@
+{
+  "name": "calculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Calculate"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "automate",
+    "frameworks"
+  ],
+  "author": "Tanawan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
